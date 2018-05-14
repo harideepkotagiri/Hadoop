@@ -26,7 +26,7 @@ insert into cloudera_test.test1 (user_id, user_name,user_address, user_contact) 
 grant all privileges on cloudera_test.* to 'root'@'localhost';
 ```
 ```
-flush privilages;
+flush privileges;
 ```
 
 ## SQOOP COMMANDS
